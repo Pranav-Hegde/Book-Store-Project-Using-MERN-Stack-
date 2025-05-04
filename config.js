@@ -1,1 +1,0 @@
-export const mongoDBURL = 'mongodb+srv://userprhm:R6y8pLgM3E9Z1VP1@cluster0.0gcoi.mongodb.net/bookstore?retryWrites=true&w=majority&appName=Cluster0'
